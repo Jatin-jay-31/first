@@ -10,7 +10,7 @@ html{
      overflow-y: auto;
 }
 .home{
-    min-width: 90rem;
+    min-width: 85rem;
     height: 100vh;
     background-image: url('photo-beach-town-view-from.jpg');
     display: flex;
