@@ -10,7 +10,7 @@ html{
      overflow-y: auto;
 }
 .home{
-    min-width: 85rem;
+    min-width: 90rem;
     height: 100vh;
     background-image: url('photo-beach-town-view-from.jpg');
     display: flex;
@@ -20,7 +20,7 @@ html{
     background-size: cover;
 }
 nav{
-    width: 95rem;
+    width: 90rem;
     height: 4rem;
     display: flex;
     background-color: rgba(0, 0, 0);
