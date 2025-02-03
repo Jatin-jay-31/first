@@ -1,0 +1,59 @@
+{
+    "beaches": [
+      {
+        "name": "Maldives Beach,Maldives",
+        "imageUrl": "pexels-asadphoto-1483053.jpg",
+        "description": "A tropical paradise with pristine white sand beaches and crystal-clear waters."
+      },
+      {
+        "name": "Goa Beach, India",
+        "imageUrl": "pexels-alexey2renkov-14384530.jpg",
+        "description": "Famous for its vibrant nightlife and picturesque coastline."
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "cities": [
+          {
+            "name": "Amritsar,India",
+            "imageUrl": "pexels-navnidh-5459138.jpg",
+            "description": "A city known for the Golden Temple, one of the holiest sites in Sikhism."
+          },
+          {
+            "name": "Dehradun,India",
+            "imageUrl": "pexels-byrahul-1155084.jpg",
+            "description": "A serene city surrounded by the Himalayan foothills, close to the Kedarnath Temple."
+          }
+        ]
+      },
+      {
+        "name": "New Zealand",
+        "cities": [
+          {
+            "name": "Auckland,New Zealand",
+            "imageUrl": "pexels-trina-snow-388014-1043402.jpg",
+            "description": "A vibrant city known for its beautiful harbors and diverse culture."
+          },
+          {
+            "name": "Wellington,New Zealand",
+            "imageUrl": "pexels-donovan-kelly-110228397-17824128.jpg",
+            "description": "The capital of New Zealand, renowned for its arts scene and stunning landscapes."
+          }
+        ]
+      }
+    ],
+    "temples": [
+      {
+        "name": "Golden Temple, Amritsar",
+        "imageUrl": "pexels-jaspal-khalsa-1550889-30400353.jpg",
+        "description": "A spiritual and architectural marvel, the Golden Temple is the holiest site in Sikhism, located in Amritsar."
+      },
+      {
+        "name": "Kedarnath Temple,India",
+        "imageUrl": "pexels-alok-kumar-273007-15031440.jpg",
+        "description": "A revered pilgrimage site in the Himalayas, dedicated to Lord Shiva, located in Kedarnath."
+      }
+    ]
+  }
+  
